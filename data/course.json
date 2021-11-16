@@ -1,0 +1,38 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Aerospace Engineering",
+      "Aerodynamics"
+    ],
+    [
+      "Engineering",
+      "Aerospace Engineering",
+      "Avionics"
+    ],
+    [
+      "Engineering",
+      "Aerospace Engineering",
+      "Guidance and Control Systems"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "442742a5-f34c-1b97-76e5-2e8d7f59dc8d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Aircraft Stability and Control",
+  "course_description": "This class includes a brief review of applied aerodynamics and modern approaches in aircraft stability and control. Topics covered include static stability and trim; stability derivatives and characteristic longitudinal and lateral-directional motions; and physical effects of the wing, fuselage, and tail on aircraft motion. Control methods and systems are discussed, with emphasis on flight vehicle stabilization by classical and modern control techniques; time and frequency domain analysis of control system performance; and human-pilot models and pilot-in-the-loop controls with applications. Other topics covered include V/STOL stability, dynamics, and control during transition from hover to forward flight; parameter sensitivity; and handling quality analysis of aircraft through variable flight conditions. There will be a brief discussion of motion at high angles-of-attack, roll coupling, and other nonlinear flight regimes.\n",
+  "department_numbers": [
+    "16"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "16.333",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
